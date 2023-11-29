@@ -35,13 +35,11 @@ will not do it here.
 
 Further study
 1. Try KPrototypes algorithm to cluster the data
-a. https://medium.com/@guruprasad0o_o0/notes-on-k-prototype-for-clusterin
-g-mixed-typed-data-e80eb526b226
-b. https://medium.com/datadriveninvestor/k-prototype-in-clustering-mixed-attri
-butes-e6907db91914
+a. https://medium.com/@guruprasad0o_o0/notes-on-k-prototype-for-clustering-mixed-typed-data-e80eb526b226
+b. https://medium.com/datadriveninvestor/k-prototype-in-clustering-mixed-attributes-e6907db91914
+
 2. Try kmodes library to cluster the data
 a. https://pypi.org/project/kmodes/
-Proprietary content. © Great Learning. All Rights Reserved. Unauthorized use or distribution prohibited. 3
 b. https://medium.com/@davidmasse8/unsupervised-learning-for-categoricaldata-dd7e497033ae
 
 #PCA
